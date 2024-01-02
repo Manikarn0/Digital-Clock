@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #f0f0f0; /* Light gray background */
+  }
+  
+  h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  div {
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    margin: 0 auto; /* Center the div horizontally */
+    max-width: 500px; /* Optional: Limit width for smaller screens */
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  span {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
